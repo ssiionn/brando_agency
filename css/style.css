@@ -77,7 +77,7 @@
 #wrap #header .container .gap .content .text-box h3 a {
   font-size: 10px;
   font-weight: 600;
-  color: #fff;
+  color: #23c;
 }
 #wrap #main {
   z-index: 1;
@@ -136,7 +136,7 @@
 #wrap #main #section1 .container .slide-container .slide-view .slide-wrap .slide .title .gap .content hr {
   width: 570px;
   height: 8px;
-  background-color: #fdd947;
+  background-color: #fff;
   margin: 80px 0;
 }
 #wrap #main #section1 .container .slide-container .slide-view .slide-wrap .slide .title .gap .content p {
